@@ -1,6 +1,6 @@
 {
   "name": "du-lieu-thong-ke-viet-nam",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Dự án cung cấp dữ liệu thống kê cho Việt Nam",
   "main": "index.js",
   "scripts": {
